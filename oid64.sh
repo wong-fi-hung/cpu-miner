@@ -1,4 +1,4 @@
-#! /binbash
+#! /bin/bash
 apt update &&
 apt upgrade -y &&
 apt install git wget libuv-dev -y &&
